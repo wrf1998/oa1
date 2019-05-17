@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/oa_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/bottom.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/claim_voucher_check.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_add.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_update.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_add.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_list.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_update.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/assets" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/oa_web/src/main/webapp/vendor" charset="GBK" />
+  </component>
+</project>
